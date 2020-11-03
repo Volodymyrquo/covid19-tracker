@@ -1,4 +1,5 @@
 import React from "react";
+export { Cards, Chart, CountryPicker } from "./components";
 
 class App extends React.Component {
   render() {
