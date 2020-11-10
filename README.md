@@ -2,11 +2,13 @@
 
 ### [Live Site](https://volodymyrquo.github.io/covid19-tracker/)
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/ad412b9c-3820-4f14-b65c-666f055a1ea0/deploy-status)](https://app.netlify.com/sites/vquo-covid19-tracker-gh/deploys)
+
 ![Chart Application](https://i.ibb.co/s33PdHR/covid19-tracker.png)
 
 ## Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://vquo-covid19-tracker-gh.netlify.app/).
 
 ## Available Scripts
 
