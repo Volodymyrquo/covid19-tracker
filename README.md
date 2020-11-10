@@ -1,4 +1,10 @@
-# Getting Started with Create React App
+# Covid-19 tracker
+
+### [Live Site](https://volodymyrquo.github.io/covid19-tracker/)
+
+![Chart Application](https://i.ibb.co/s33PdHR/covid19-tracker.png)
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
